@@ -1,4 +1,4 @@
-# cybersecurity-labs (Kali / Apporto)
+# Cybersecurity-Labs (Kali / Apporto)
 
 This repository showcases my **cyber security lab work** in a Kali (Apporto) environment, starting from **Linux CLI fundamentals** and progressing to core security topics (risk & essentials, cryptography, network security/scanning, vulnerability scanning, cloud security, and penetration testing). Each week includes **evidence** (DOCX report, screenshots, exported artifacts) to demonstrate reproducible, hands‑on practice aligned to the module structure
 

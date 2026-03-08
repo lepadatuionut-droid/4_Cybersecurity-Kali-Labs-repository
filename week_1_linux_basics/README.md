@@ -17,6 +17,13 @@
 - `screenshots/` – selected terminal/desktop screenshots
 - `archives/` – exported artifact (zip) for download
 
+## Evidence Map (Week 1)
+
+- **CLI Fundamentals:** `command_line/` (created/moved/copied/removed files & folders; handled spaces; used absolute paths)
+- **History Export:** `command_line/my_history.txt` (commands captured for audit/evidence)
+- **Reproducible Artifact:** `../archives/week_1_Tutorial.zip` (packaged outputs)
+- **Documentation:** `docs/Week_1_LAB_work_report.docx` (full write‑up with screenshots)
+
 ## Notes & Lessons Learned
 
   **Typing `~` (tilde) in Apporto/Kali:** Some keyboard layouts or the Apporto web client make it hard to enter `~`.  

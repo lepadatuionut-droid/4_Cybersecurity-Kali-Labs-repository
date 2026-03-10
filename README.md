@@ -5,8 +5,20 @@ This repository showcases my **cyber security lab work** in a Kali (Apporto) env
 ## Weeks
 - **Week 1 – Linux CLI Essentials**
   - 👉 Week folder: [`week_1_linux_basics/`  - Report (DOCX): [`week_1_linux_basics/docs/Week_1_LAB_work_report.docx`](./week_nshots: [`week_1_linux_basics/screenshots/`](./week_1_linux_basifact: [`archives/week_1_Tutorial.zip
-
+ 
 > Additional weeks (2–6) will be added as separate folders.
+
+## Weeks
+
+- **Week 1 – Linux CLI Essentials (Filesystem, basic operations)**
+  - Folder: [`week_1_linux_basics/`](./week_1_linux_bas`week_1_linux_basics/docs/Week_1_LAB_work_report.docx`](./week_1_linux_baseek_1_linux_basics/screenshots/`  - Artifact ZIP: [`archives/week_1_Tutorial.zip`](./archives– Linux OS Basics (Navigation, editing, redirection, sudo)**  
+  - Folder: [`week_2_linux_os_basics/`](./week_2_linux_os_basics_linux_os_basics/docs/Week_2_LAB_screenshots.docx`
+  - Screenshots: `week_2_linux_os_basics/screenshots/`
+
+- **Week 3 – User Accounts & Permissions (adduser, passwd, chmod)**  
+  - Folder: `week_3_user_accounts_permissions/`
+  - Report (DOCX): `week_3_user_accounts_permissions/docs/Week_3_LAB.docx`
+  - Screenshots: [`week_3_user_accounts_permissions/screenshots`
 
 - **What follows in the module:**  
   - Week 2: **Cyber Security Essentials & Risk Management** (lecture) / **Kali Basics** (tutorial)  
